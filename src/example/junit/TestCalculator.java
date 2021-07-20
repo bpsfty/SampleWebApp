@@ -10,7 +10,7 @@ import org.junit.Test;
 
 public class TestCalculator {
  
-	private math.Calculator calc;
+	private math.Calculator calc; 
   
 	 @Before
 	 public void setUp() throws Exception {
