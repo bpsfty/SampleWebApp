@@ -13,7 +13,7 @@ public class TestCalculator {
 	private math.Calculator calc; 
   
 	 @Before
-	 public void setUp() throws Exception {
+	 public void setUp() throws Exception { 
 		 calc = new math.Calculator();
 	 }
  
